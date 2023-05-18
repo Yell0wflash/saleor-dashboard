@@ -15,7 +15,6 @@
   <span> • </span>
   <a href="https://saleor.io/blog/">📰 Blog</a>
   <span> • </span>
-  <a href="https://twitter.com/getsaleor">🐦 Twitter</a>
 </div>
 
 <div align="center">
@@ -27,7 +26,7 @@
 ## Prerequisites
 
 - Node.js v18+
-- A running instance of [Saleor](https://github.com/saleor/saleor/)
+- A running instance of [Saleor](https://github.com/Yell0wflash/saleor/)
 
 ## Development
 
